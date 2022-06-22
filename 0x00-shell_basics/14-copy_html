@@ -1,0 +1,3 @@
+#!/bin/bash
+
+xclip -t text/html -sel c  /root
