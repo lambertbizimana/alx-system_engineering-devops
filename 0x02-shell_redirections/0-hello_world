@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo 'Hello, World'\ 'I just want to execute it in Github'
+echo 'Hello, World'\ 
 
