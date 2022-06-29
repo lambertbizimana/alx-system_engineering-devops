@@ -1,0 +1,4 @@
+
+#!/bin/bash
+
+echo 'Chicago' | sed  's/c//; s/C//' 
